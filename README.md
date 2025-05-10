@@ -6,7 +6,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Velostroso&theme=transparent&bg_color=000&border_color=211C84&show_icons=true&icon_color=211C84&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Velostroso&theme=transparent&bg_color=000&border_color=211C84&show_icons=true&icon_color=211C84&title_color=4D55CC&text_color=FFF)
 
 <div style="display: inline_block"><br>
   <img align= "center" alt="Matheus-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
