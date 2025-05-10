@@ -1,6 +1,5 @@
 # Matheus Veloso Lino de Souza 
 
-## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Velostroso&theme=transparent&bg_color=000&border_color=211C84&show_icons=true&icon_color=211C84&title_color=4D55CC&text_color=FFF)
 
 <div style="display: inline_block"><br>
